@@ -2,6 +2,8 @@
 
 [![Angular Logo](CBT-logo.png)](https://crossbrowsertesting.com/)
 
+[![Testing Powered By SauceLabs](https://opensource.saucelabs.com/images/opensauce/powered-by-saucelabs-badge-red.png?sanitize=true "Testing Powered By SauceLabs")](https://saucelabs.com)
+
 # Introduction
 
 Bootstrap and package your project with Angular 10 and Electron 9 (Typescript + SASS + Hot Reload) for creating Desktop applications.
